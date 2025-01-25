@@ -59,7 +59,7 @@ def process_all_tracks(dataset_path, output_file):
                 f.write(result)
             
             
-# Compiling timestamps (~20–30 min)
+# Compiling RAW timestamps (~20–30 min)
 process_all_tracks("slakh2100_flac_redux/train", "timestamps_train.txt")
 process_all_tracks("slakh2100_flac_redux/validation", "timestamps_validation.txt")
 process_all_tracks("slakh2100_flac_redux/test", "timestamps_test.txt")
