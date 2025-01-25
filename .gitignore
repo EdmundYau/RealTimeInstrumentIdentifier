@@ -1,2 +1,4 @@
 slakh2100_flac_redux/
-spectrograms/
+spectrograms_train/
+spectrograms_validation/
+spectrograms_test/
