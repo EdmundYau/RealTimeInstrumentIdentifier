@@ -13,11 +13,19 @@ def extract_program_numbers(track_path):
 
     # Extract program numbers
     output = f"Track: {track_path}\n"
-    for stem_id, stem_data in metadata.get("stems", {}).items():
-        program_num = stem_data.get("program_num", "Unknown")  
-        output += f"{stem_id}.flac: {program_num}\n"
+    valid_entries = []
 
-    return output
+    for stem_id, stem_data in metadata.get("stems", {}).items():
+        if not stem_data.get("audio_rendered", True): 
+            continue  
+        program_num = stem_data.get("program_num", "Unknown")  
+        valid_entries.append(f"{stem_id}.flac: {program_num}")
+
+    if valid_entries:
+        output += "\n".join(valid_entries) + "\n"
+        return output
+    
+    return None  
 
 # ===================== FOR EACH FOLDER =====================
 def process_all_tracks(dataset_path, output_file):
