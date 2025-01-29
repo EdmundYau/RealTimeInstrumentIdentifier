@@ -11,8 +11,6 @@ S08.flac: 128
 S09.flac: 0
 S10.flac: 88
 S11.flac: 26
-S12.flac: 127
-S13.flac: 123
 S14.flac: 30
 Track: slakh2100_flac_redux/test\Track01877
 S00.flac: 0
@@ -23,7 +21,6 @@ S04.flac: 27
 S05.flac: 49
 S06.flac: 56
 S07.flac: 61
-S08.flac: 126
 S09.flac: 128
 S10.flac: 4
 S11.flac: 52
@@ -46,7 +43,6 @@ S13.flac: 24
 Track: slakh2100_flac_redux/test\Track01880
 S00.flac: 128
 S01.flac: 30
-S02.flac: 39
 S03.flac: 4
 S04.flac: 49
 S05.flac: 18
@@ -67,7 +63,6 @@ S04.flac: 26
 S05.flac: 11
 Track: slakh2100_flac_redux/test\Track01882
 S00.flac: 65
-S01.flac: 39
 S02.flac: 128
 S03.flac: 94
 S04.flac: 27
@@ -93,7 +88,6 @@ S04.flac: 51
 S05.flac: 4
 S06.flac: 25
 S07.flac: 28
-S08.flac: 108
 S09.flac: 48
 S10.flac: 8
 S11.flac: 50
@@ -142,9 +136,7 @@ S07.flac: 53
 S08.flac: 29
 S09.flac: 128
 S10.flac: 93
-S11.flac: 119
 S12.flac: 94
-S13.flac: 47
 S14.flac: 46
 Track: slakh2100_flac_redux/test\Track01891
 S00.flac: 128
@@ -182,7 +174,6 @@ S01.flac: 33
 S02.flac: 27
 S03.flac: 28
 S04.flac: 28
-S05.flac: 120
 S06.flac: 89
 S07.flac: 75
 S08.flac: 1
@@ -190,7 +181,6 @@ S09.flac: 1
 S10.flac: 52
 S11.flac: 30
 S12.flac: 68
-S13.flac: 100
 S14.flac: 82
 S15.flac: 53
 Track: slakh2100_flac_redux/test\Track01895
@@ -222,8 +212,6 @@ S05.flac: 25
 S06.flac: 65
 S07.flac: 73
 S08.flac: 0
-S09.flac: 116
-S10.flac: 100
 S11.flac: 48
 S12.flac: 53
 S13.flac: 40
@@ -261,13 +249,10 @@ S08.flac: 79
 S09.flac: 128
 Track: slakh2100_flac_redux/test\Track01901
 S00.flac: 128
-S01.flac: 126
-S02.flac: 122
 S03.flac: 27
 S04.flac: 25
 S05.flac: 33
 S06.flac: 25
-S07.flac: 104
 S08.flac: 22
 S09.flac: 25
 S10.flac: 53
@@ -300,8 +285,6 @@ S12.flac: 48
 S13.flac: 91
 S14.flac: 45
 S15.flac: 29
-S16.flac: 104
-S17.flac: 47
 Track: slakh2100_flac_redux/test\Track01904
 S00.flac: 1
 S01.flac: 6
@@ -320,7 +303,6 @@ S03.flac: 25
 S04.flac: 27
 S05.flac: 30
 S06.flac: 29
-S07.flac: 103
 S08.flac: 128
 S09.flac: 66
 S10.flac: 52
@@ -375,7 +357,6 @@ S03.flac: 5
 S04.flac: 27
 S05.flac: 49
 S06.flac: 56
-S07.flac: 98
 S08.flac: 52
 S09.flac: 52
 Track: slakh2100_flac_redux/test\Track01916
@@ -386,7 +367,6 @@ S03.flac: 65
 S04.flac: 28
 S05.flac: 27
 S06.flac: 48
-S07.flac: 62
 S08.flac: 88
 S09.flac: 128
 Track: slakh2100_flac_redux/test\Track01917
@@ -394,7 +374,6 @@ S00.flac: 35
 S01.flac: 1
 S02.flac: 75
 S03.flac: 6
-S04.flac: 99
 S05.flac: 25
 S06.flac: 51
 S07.flac: 49
@@ -404,14 +383,10 @@ S10.flac: 60
 S11.flac: 53
 Track: slakh2100_flac_redux/test\Track01918
 S00.flac: 1
-S01.flac: 38
 S02.flac: 27
-S03.flac: 124
 S04.flac: 48
 S05.flac: 5
-S06.flac: 63
 S07.flac: 52
-S08.flac: 47
 S09.flac: 128
 S10.flac: 34
 Track: slakh2100_flac_redux/test\Track01920
@@ -421,7 +396,6 @@ S02.flac: 128
 S03.flac: 5
 S04.flac: 27
 S05.flac: 35
-S06.flac: 124
 S07.flac: 65
 S08.flac: 64
 S09.flac: 0
@@ -447,7 +421,6 @@ S06.flac: 48
 S07.flac: 57
 S08.flac: 57
 S09.flac: 128
-S10.flac: 68
 S11.flac: 73
 S12.flac: 73
 S13.flac: 28
@@ -471,17 +444,13 @@ S00.flac: 1
 S01.flac: 30
 S02.flac: 48
 S03.flac: 30
-S04.flac: 103
 S05.flac: 7
 S06.flac: 49
 S07.flac: 35
 S08.flac: 128
-S09.flac: 118
 S10.flac: 25
 S11.flac: 54
-S12.flac: 101
 S13.flac: 30
-S14.flac: 77
 Track: slakh2100_flac_redux/test\Track01931
 S00.flac: 128
 S01.flac: 33
@@ -506,7 +475,6 @@ S01.flac: 68
 S02.flac: 88
 S03.flac: 3
 S04.flac: 48
-S05.flac: 100
 S06.flac: 128
 S07.flac: 33
 S08.flac: 25
@@ -514,7 +482,6 @@ S09.flac: 89
 S10.flac: 93
 S11.flac: 30
 S12.flac: 5
-S13.flac: 119
 Track: slakh2100_flac_redux/test\Track01935
 S00.flac: 33
 S01.flac: 5
@@ -523,7 +490,6 @@ S03.flac: 26
 S04.flac: 128
 S05.flac: 11
 Track: slakh2100_flac_redux/test\Track01936
-S00.flac: 63
 S01.flac: 128
 S02.flac: 0
 S03.flac: 92
@@ -570,7 +536,6 @@ S03.flac: 33
 S04.flac: 25
 S05.flac: 1
 S06.flac: 65
-S07.flac: 62
 Track: slakh2100_flac_redux/test\Track01945
 S00.flac: 33
 S01.flac: 1
@@ -610,11 +575,8 @@ S10.flac: 17
 S11.flac: 30
 Track: slakh2100_flac_redux/test\Track01949
 S00.flac: 5
-S01.flac: 39
 S02.flac: 81
 S03.flac: 30
-S04.flac: 38
-S05.flac: 105
 S06.flac: 50
 S07.flac: 128
 S08.flac: 81
@@ -637,7 +599,6 @@ S03.flac: 24
 S04.flac: 4
 S05.flac: 4
 S06.flac: 26
-S07.flac: 38
 S08.flac: 58
 S09.flac: 128
 S10.flac: 61
@@ -742,8 +703,6 @@ S01.flac: 37
 S02.flac: 3
 S03.flac: 27
 S04.flac: 31
-S05.flac: 100
-S06.flac: 62
 S07.flac: 61
 S08.flac: 80
 S09.flac: 81
@@ -758,7 +717,6 @@ S06.flac: 33
 S07.flac: 61
 S08.flac: 48
 S09.flac: 61
-S10.flac: 69
 S11.flac: 0
 S12.flac: 50
 S13.flac: 26
@@ -861,7 +819,6 @@ S03.flac: 4
 S04.flac: 94
 S05.flac: 25
 S06.flac: 25
-S07.flac: 120
 S08.flac: 28
 S09.flac: 29
 S10.flac: 29
@@ -909,16 +866,13 @@ S06.flac: 52
 S07.flac: 30
 S08.flac: 27
 S09.flac: 128
-S10.flac: 119
 S11.flac: 28
 S12.flac: 29
 S13.flac: 7
 S14.flac: 35
 Track: slakh2100_flac_redux/test\Track01987
-S00.flac: 105
 S01.flac: 48
 S02.flac: 49
-S03.flac: 110
 S04.flac: 128
 S05.flac: 4
 S06.flac: 33
@@ -954,7 +908,6 @@ S11.flac: 50
 S12.flac: 48
 S13.flac: 36
 S14.flac: 53
-S15.flac: 38
 S16.flac: 65
 S17.flac: 16
 Track: slakh2100_flac_redux/test\Track01993
@@ -964,7 +917,6 @@ S02.flac: 51
 S03.flac: 51
 S04.flac: 4
 S05.flac: 0
-S06.flac: 108
 S07.flac: 128
 S08.flac: 28
 S09.flac: 48
@@ -977,10 +929,8 @@ S02.flac: 5
 S03.flac: 50
 S04.flac: 128
 S05.flac: 27
-S06.flac: 105
 Track: slakh2100_flac_redux/test\Track01995
 S00.flac: 128
-S01.flac: 102
 S02.flac: 33
 S03.flac: 5
 S04.flac: 51
@@ -998,9 +948,6 @@ S06.flac: 18
 S07.flac: 29
 S08.flac: 30
 S09.flac: 30
-S10.flac: 103
-S11.flac: 98
-S12.flac: 109
 S13.flac: 95
 Track: slakh2100_flac_redux/test\Track01997
 S00.flac: 128
@@ -1038,15 +985,12 @@ S06.flac: 87
 S07.flac: 52
 S08.flac: 29
 S09.flac: 40
-S10.flac: 47
 Track: slakh2100_flac_redux/test\Track02001
 S00.flac: 5
 S01.flac: 33
 S02.flac: 26
-S03.flac: 114
 S04.flac: 36
 S05.flac: 60
-S06.flac: 73
 S07.flac: 65
 S08.flac: 128
 Track: slakh2100_flac_redux/test\Track02002
@@ -1056,7 +1000,6 @@ S02.flac: 33
 S03.flac: 0
 S04.flac: 4
 S05.flac: 73
-S06.flac: 119
 S07.flac: 95
 S08.flac: 52
 S09.flac: 128
@@ -1072,8 +1015,6 @@ S07.flac: 48
 S08.flac: 1
 S09.flac: 28
 S10.flac: 13
-S11.flac: 100
-S12.flac: 47
 Track: slakh2100_flac_redux/test\Track02004
 S00.flac: 128
 S01.flac: 1
@@ -1129,10 +1070,8 @@ S05.flac: 4
 S06.flac: 56
 S07.flac: 79
 S08.flac: 0
-S09.flac: 113
 S10.flac: 128
 S11.flac: 65
-S12.flac: 67
 S13.flac: 61
 S14.flac: 73
 S15.flac: 79
@@ -1153,13 +1092,10 @@ S04.flac: 4
 S05.flac: 8
 S06.flac: 88
 S07.flac: 128
-S08.flac: 106
-S09.flac: 39
 Track: slakh2100_flac_redux/test\Track02016
 S00.flac: 1
 S01.flac: 50
 S02.flac: 128
-S03.flac: 39
 S04.flac: 27
 S05.flac: 3
 S06.flac: 1
@@ -1186,12 +1122,10 @@ S08.flac: 52
 S09.flac: 27
 Track: slakh2100_flac_redux/test\Track02019
 S00.flac: 128
-S01.flac: 38
 S02.flac: 1
 S03.flac: 25
 S04.flac: 25
 S05.flac: 88
-S06.flac: 100
 S07.flac: 30
 S08.flac: 48
 Track: slakh2100_flac_redux/test\Track02020
@@ -1205,7 +1139,6 @@ S06.flac: 48
 S07.flac: 1
 S08.flac: 128
 S09.flac: 90
-S10.flac: 63
 S11.flac: 24
 Track: slakh2100_flac_redux/test\Track02023
 S00.flac: 32
@@ -1259,7 +1192,6 @@ S03.flac: 5
 S04.flac: 27
 S05.flac: 49
 S06.flac: 56
-S07.flac: 98
 S08.flac: 52
 S09.flac: 52
 Track: slakh2100_flac_redux/test\Track02031
@@ -1272,11 +1204,9 @@ S05.flac: 53
 S06.flac: 48
 S07.flac: 15
 S08.flac: 4
-S09.flac: 117
 Track: slakh2100_flac_redux/test\Track02032
 S00.flac: 5
 S01.flac: 54
-S02.flac: 100
 S03.flac: 48
 S04.flac: 93
 S05.flac: 0
@@ -1332,10 +1262,8 @@ S02.flac: 71
 S03.flac: 25
 S04.flac: 48
 S05.flac: 52
-S06.flac: 105
 S07.flac: 70
 S08.flac: 128
-S09.flac: 114
 Track: slakh2100_flac_redux/test\Track02042
 S00.flac: 2
 S01.flac: 88
@@ -1352,7 +1280,6 @@ S11.flac: 30
 S12.flac: 31
 Track: slakh2100_flac_redux/test\Track02044
 S00.flac: 87
-S01.flac: 62
 S02.flac: 25
 S03.flac: 0
 S04.flac: 7
@@ -1368,13 +1295,11 @@ S01.flac: 29
 S02.flac: 85
 S03.flac: 0
 S04.flac: 25
-S05.flac: 39
 S06.flac: 95
 S07.flac: 87
 S08.flac: 49
 S09.flac: 25
 S10.flac: 26
-S11.flac: 115
 S12.flac: 5
 Track: slakh2100_flac_redux/test\Track02046
 S00.flac: 8
@@ -1384,14 +1309,12 @@ S03.flac: 128
 S04.flac: 48
 S05.flac: 7
 S06.flac: 52
-S07.flac: 63
 S08.flac: 35
 S09.flac: 71
 S10.flac: 25
 S11.flac: 27
 S12.flac: 29
 S13.flac: 30
-S14.flac: 119
 Track: slakh2100_flac_redux/test\Track02047
 S00.flac: 1
 S01.flac: 33
@@ -1405,7 +1328,6 @@ Track: slakh2100_flac_redux/test\Track02048
 S00.flac: 0
 S01.flac: 12
 S02.flac: 35
-S03.flac: 108
 S04.flac: 75
 S05.flac: 45
 S06.flac: 128
@@ -1423,7 +1345,6 @@ S01.flac: 33
 S02.flac: 29
 S03.flac: 5
 S04.flac: 5
-S05.flac: 39
 S06.flac: 53
 S07.flac: 7
 S08.flac: 64
@@ -1434,10 +1355,8 @@ Track: slakh2100_flac_redux/test\Track02050
 S00.flac: 128
 S01.flac: 6
 S02.flac: 25
-S03.flac: 99
 S04.flac: 35
 S05.flac: 0
-S06.flac: 47
 S07.flac: 45
 S08.flac: 82
 S09.flac: 53
@@ -1445,7 +1364,6 @@ S10.flac: 48
 Track: slakh2100_flac_redux/test\Track02051
 S00.flac: 73
 S01.flac: 27
-S02.flac: 110
 S03.flac: 27
 S04.flac: 33
 S05.flac: 128
@@ -1465,7 +1383,6 @@ S06.flac: 89
 S07.flac: 60
 S08.flac: 56
 S09.flac: 66
-S10.flac: 67
 S11.flac: 34
 S12.flac: 128
 Track: slakh2100_flac_redux/test\Track02053
@@ -1474,7 +1391,6 @@ S01.flac: 48
 S02.flac: 22
 S03.flac: 4
 S04.flac: 88
-S05.flac: 38
 S06.flac: 75
 S07.flac: 27
 S08.flac: 28
@@ -1509,7 +1425,6 @@ S05.flac: 35
 S06.flac: 75
 S07.flac: 29
 S08.flac: 52
-S09.flac: 9
 S10.flac: 45
 S11.flac: 18
 Track: slakh2100_flac_redux/test\Track02061
@@ -1526,7 +1441,6 @@ S09.flac: 128
 S10.flac: 30
 Track: slakh2100_flac_redux/test\Track02062
 S00.flac: 35
-S01.flac: 99
 S02.flac: 65
 S03.flac: 28
 S04.flac: 29
@@ -1553,7 +1467,6 @@ S14.flac: 0
 S15.flac: 28
 Track: slakh2100_flac_redux/test\Track02064
 S00.flac: 25
-S01.flac: 100
 S02.flac: 25
 S03.flac: 89
 S04.flac: 4
@@ -1562,11 +1475,9 @@ S06.flac: 64
 S07.flac: 24
 S08.flac: 88
 S09.flac: 128
-S10.flac: 119
 S11.flac: 33
 S12.flac: 30
 S13.flac: 94
-S14.flac: 120
 S15.flac: 54
 S16.flac: 0
 S17.flac: 0
@@ -1574,7 +1485,6 @@ Track: slakh2100_flac_redux/test\Track02067
 S00.flac: 24
 S01.flac: 48
 S02.flac: 5
-S03.flac: 119
 S04.flac: 33
 S05.flac: 51
 S06.flac: 65
@@ -1606,7 +1516,6 @@ S03.flac: 48
 S04.flac: 26
 S05.flac: 128
 S06.flac: 27
-S07.flac: 62
 S08.flac: 28
 S09.flac: 30
 Track: slakh2100_flac_redux/test\Track02074
@@ -1633,7 +1542,6 @@ S07.flac: 81
 S08.flac: 7
 S09.flac: 6
 S10.flac: 128
-S11.flac: 99
 S12.flac: 94
 S13.flac: 0
 Track: slakh2100_flac_redux/test\Track02081
@@ -1648,13 +1556,11 @@ S07.flac: 60
 S08.flac: 58
 S09.flac: 88
 S10.flac: 61
-S11.flac: 67
 Track: slakh2100_flac_redux/test\Track02082
 S00.flac: 28
 S01.flac: 128
 S02.flac: 5
 S03.flac: 6
-S04.flac: 62
 S05.flac: 48
 S06.flac: 46
 S07.flac: 0
@@ -1692,7 +1598,6 @@ S00.flac: 53
 S01.flac: 6
 S02.flac: 27
 S03.flac: 25
-S04.flac: 39
 S05.flac: 128
 Track: slakh2100_flac_redux/test\Track02088
 S00.flac: 128
@@ -1723,7 +1628,6 @@ S04.flac: 33
 S05.flac: 49
 S06.flac: 87
 S07.flac: 1
-S08.flac: 100
 S09.flac: 30
 S10.flac: 81
 S11.flac: 0
@@ -1759,8 +1663,6 @@ S06.flac: 29
 S07.flac: 29
 S08.flac: 31
 S09.flac: 85
-S10.flac: 127
-S11.flac: 120
 S12.flac: 45
 S13.flac: 79
 Track: slakh2100_flac_redux/test\Track02095
