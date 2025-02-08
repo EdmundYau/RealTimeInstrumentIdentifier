@@ -3,4 +3,11 @@ spectrograms_train/
 spectrograms_validation/
 spectrograms_test/
 spectrograms/
-processed_tracks/
+processed_train/
+processed_validation/
+processed_test/
+labels_train/
+labels_validation/
+labels_test/
+
+spectrograms_validation_256/
