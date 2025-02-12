@@ -10,4 +10,10 @@ labels_train/
 labels_validation/
 labels_test/
 
-spectrograms_validation_256/
+primary_labels_test/
+primary_labels_train/
+primary_labels_validation/
+
+secondary_labels_test/
+secondary_labels_train/
+secondary_labels_validation/
