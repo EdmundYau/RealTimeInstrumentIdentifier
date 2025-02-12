@@ -1,0 +1,17 @@
+0 Piano
+1 Chromatic Percussion
+2 Organ
+3 Guitar
+4 Bass
+5 Strings
+6 Strings (continued)
+7 Brass
+8 Reed
+9 Pipe
+10 Synth Lead
+11 Synth Pad
+12 Sound Effects
+13 Ethnic
+14 Percussive
+15 Sound effects
+16 Drums

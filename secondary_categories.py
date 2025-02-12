@@ -1,4 +1,3 @@
-# Import Libraries
 import os
 import yaml  
 
@@ -38,6 +37,6 @@ def process_all_tracks(dataset_path, output_file):
                 f.write(result)
 
 # Generate category files (~30–60 secs)
-process_all_tracks("slakh2100_flac_redux/train", "categories_train.txt")
-process_all_tracks("slakh2100_flac_redux/validation", "categories_validation.txt")
-process_all_tracks("slakh2100_flac_redux/test", "categories_test.txt")
+process_all_tracks("slakh2100_flac_redux/train", "secondary_categories_train.txt")
+process_all_tracks("slakh2100_flac_redux/validation", "secondary_categories_validation.txt")
+process_all_tracks("slakh2100_flac_redux/test", "secondary_categories_test.txt")
