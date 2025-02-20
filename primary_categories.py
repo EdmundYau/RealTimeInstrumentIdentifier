@@ -11,7 +11,7 @@ def load_instrument_groups(mapping_file):
                 group_map[parts[1]] = parts[0]
     return group_map
 
-instrument_groups = load_instrument_groups("instrument_groups.txt")
+instrument_groups = load_instrument_groups("instrument_concised_groups.txt")
 
 # ===================== FOR EACH TRACK =====================
 def extract_general_categories(track_path):
@@ -50,6 +50,4 @@ def process_all_tracks(dataset_path, output_file):
                 f.write(result)
 
 # Generate general category files
-process_all_tracks("slakh2100_flac_redux/train", "primary_categories_train.txt")
-process_all_tracks("slakh2100_flac_redux/validation", "primary_categories_validation.txt")
-process_all_tracks("slakh2100_flac_redux/test", "primary_categories_test.txt")
+process_all_tracks("slakh2100_flac_redux/reduced", "primary_categories_reduced.txt")

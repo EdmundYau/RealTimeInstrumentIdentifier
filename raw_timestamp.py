@@ -60,4 +60,4 @@ def process_all_tracks(dataset_path, output_file):
             
             
 # Compiling RAW timestamps (~20–30 min)
-process_all_tracks("slakh2100_flac_redux/validation_remixed", "raw_timestamps_validation_remixed.txt")
+process_all_tracks("slakh2100_flac_redux/reduced", "raw_timestamps_reduced.txt")
