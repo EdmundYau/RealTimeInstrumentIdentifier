@@ -1,0 +1,8 @@
+0 Piano
+1 Guitar
+2 Bass
+3 Strings
+4 Brass
+5 Reed
+6 Pipe
+7 Drums
