@@ -20,3 +20,6 @@ secondary_labels_validation/
 
 spectrograms_validation_remixed/
 primary_labels_validation_remixed/
+
+spectrograms_reduced/
+spectrograms_reduced_test/
