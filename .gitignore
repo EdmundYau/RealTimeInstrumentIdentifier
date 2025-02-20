@@ -26,3 +26,6 @@ spectrograms_reduced_test/
 
 reduced_labels/
 reduced_test_labels/
+
+labels_reduced/
+labels_reduced_test/
