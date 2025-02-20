@@ -17,3 +17,6 @@ primary_labels_validation/
 secondary_labels_test/
 secondary_labels_train/
 secondary_labels_validation/
+
+spectrograms_validation_remixed/
+primary_labels_validation_remixed/

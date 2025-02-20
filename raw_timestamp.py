@@ -24,9 +24,9 @@ def detect_active_timestamps(stem_path, sr=44100, threshold=0.005):
     
     for i in range(1, len(active_times)):
         if active_times[i] - active_times[i-1] > 0.3:  # Gap (secs)
-            timestamps.append((round(start_time, 2), round(active_times[i-1], 2)))
+            timestamps.append((float(round(start_time, 2)), float(round(active_times[i-1], 2))))
             start_time = active_times[i]
-    timestamps.append((round(start_time, 2), round(active_times[-1], 2)))  
+    timestamps.append((float(round(start_time, 2)), float(round(active_times[-1], 2))))
     
     return timestamps
 
@@ -60,6 +60,4 @@ def process_all_tracks(dataset_path, output_file):
             
             
 # Compiling RAW timestamps (~20–30 min)
-process_all_tracks("slakh2100_flac_redux/train", "timestamps_train.txt")
-process_all_tracks("slakh2100_flac_redux/validation", "timestamps_validation.txt")
-process_all_tracks("slakh2100_flac_redux/test", "timestamps_test.txt")
+process_all_tracks("slakh2100_flac_redux/validation_remixed", "raw_timestamps_validation_remixed.txt")
