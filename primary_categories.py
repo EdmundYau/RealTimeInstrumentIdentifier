@@ -30,7 +30,13 @@ def extract_general_categories(track_path):
         if not stem_data.get("audio_rendered", True): 
             continue  
         inst_class = stem_data.get("inst_class", "Unknown")
-        inst_class_number = instrument_groups.get(inst_class, "Unknown")
+
+        # Ensure "Strings (continued)" is mapped to 3
+        if inst_class == "Strings (continued)":
+            inst_class_number = "3"
+        else:
+            inst_class_number = instrument_groups.get(inst_class, "Unknown") or "Unknown"
+            
         valid_entries.append(f"{stem_id}.flac: {inst_class_number}")
 
     if valid_entries:
