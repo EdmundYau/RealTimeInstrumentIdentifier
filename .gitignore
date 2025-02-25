@@ -23,6 +23,8 @@ primary_labels_validation_remixed/
 
 spectrograms_reduced/
 spectrograms_reduced_test/
+spectrograms_reduced_train/
 
-reduced_labels/
-reduced_test_labels/
+labels_reduced/
+labels_reduced_test/
+labels_reduced_train/

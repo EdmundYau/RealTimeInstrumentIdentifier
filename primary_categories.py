@@ -56,4 +56,4 @@ def process_all_tracks(dataset_path, output_file):
                 f.write(result)
 
 # Generate general category files
-process_all_tracks("slakh2100_flac_redux/reduced_test", "primary_categories_reduced_test.txt")
+process_all_tracks("slakh2100_flac_redux/reduced_train", "primary_categories_reduced_train.txt")
