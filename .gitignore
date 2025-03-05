@@ -24,6 +24,15 @@ primary_labels_validation_remixed/
 spectrograms_reduced/
 spectrograms_reduced_test/
 spectrograms_reduced_train/
+spectrograms_sixtyfour/
+spectrograms_sixtyfour_test/
+spectrograms_sixtyfour_train/
+spectrograms_thirtytwo/
+spectrograms_thirtytwo_test/
+spectrograms_thirtytwo_train/
+spectrograms_sixteen/
+spectrograms_sixteen_test/
+spectrograms_sixteen_train/
 
 labels_reduced/
 labels_reduced_test/
